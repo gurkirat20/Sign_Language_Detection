@@ -6,7 +6,7 @@ The model processes real-time video data and provides real-time feedback on the 
 </p>
 
 <br>
-<img src="sign-language-alphabet.png" width="600" height="300" alt="American Sign Language"></img>
+<img src="sign-language-alphabet.png" width="500" height="300" alt="American Sign Language"></img>
 <i>The image shows signs of the alphabet in ASL.</i>
 
 
