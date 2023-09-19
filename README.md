@@ -1,13 +1,13 @@
 # Sign Language Detection
 
-<p>This is a Sign language detection model that can accurately recognize and interpret the gestures and movements of hands used in **American Sign Language (ASL)**.</p>
+<p>This is a Sign language detection model that can accurately recognize and interpret the gestures and movements of hands used in <b>American Sign Language (ASL)</b>.</p>
 <p>
 The model processes real-time video data and provides real-time feedback on the signs being performed. The end goal of this project is to create a tool that can help bridge communication gaps between deaf and hearing individuals and enable more inclusive and accessible interactions in various settings.
 </p>
 
 <br>
-<img src="sign-language-alphabet.png" width="400" height="250" alt="American Sign Language"></img>
-*The image shows signs of the alphabet in ASL.*
+<img src="sign-language-alphabet.png" width="600" height="250" alt="American Sign Language"></img>
+<i>The image shows signs of the alphabet in ASL.</i>
 
 <br>
 
@@ -16,7 +16,7 @@ The model processes real-time video data and provides real-time feedback on the 
 You can run this model on your system by installing a couple of things :
 + [Python](https://www.python.org/downloads/)
 + [Mediapipe](https://developers.google.com/mediapipe/framework/getting_started/install)
-+ Python libraries and modules like OpenCV, Time, and OS
++ Python libraries and modules like OpenCV, Time, and OS. <br>
 You can get started by checking out any of the setup guides for their installation. However, links to official sites and guides have been attached. 
 
 
@@ -24,7 +24,7 @@ You can get started by checking out any of the setup guides for their installati
 
 ## Framework:
 
-### Mediapipe : 
+### Mediapipe 
 
 MediaPipe is an open-source framework developed by Google that provides a set of pre-built, customizable building blocks for building multimodal machine learning pipelines. MediaPipe is built on top of TensorFlow, a popular open-source machine-learning framework. 
 
@@ -62,7 +62,7 @@ Once a hand has been detected, the MediaPipe Hand Tracking module uses another m
 
 #### 6.  Hand tracking:
 
-The estimated hand landmarks are then tracked across frames of the video or image data to determine the hand's movements and gestures. 
+The estimated hand landmarks are then tracked across frames of the video or image data to determine the hand's movements and gestures. <br>
 <img width="508" alt="Hand Tracking" src="https://github.com/gurkirat20/Sign_Language_Detection/assets/91982831/9d0623e0-bab1-4892-b9c4-b1fb86c05eff">
 
 #### 7.  Post-processing: 
@@ -72,13 +72,14 @@ Once the hand has been tracked, the output data is post-processed to make it eas
 #### 8.  Output visualization: 
 
 Finally, the results of the hand-tracking analysis are visualized as text on the user’s screen.
-<br>
+<br><br>
 <img width="200" alt="Output-1" src="https://github.com/gurkirat20/Sign_Language_Detection/assets/91982831/b2de9eee-0df9-4e56-9f2e-ffad98c78d00">
 <img width="200" alt="Output-2" src="https://github.com/gurkirat20/Sign_Language_Detection/assets/91982831/bd3f23eb-a841-40a1-9922-a6b8f68d1dba">
-<br>
+<br><br>
 <img width="200" alt="Output-3" src="https://github.com/gurkirat20/Sign_Language_Detection/assets/91982831/dc9226f2-ef75-451a-b9ad-6c323f60008c">
 <img width="200" alt="Output-4" src="https://github.com/gurkirat20/Sign_Language_Detection/assets/91982831/9ad5e9e3-ac68-422f-892a-9d0cbe46df1b">
 
+<br>
 
 ## System Requirements
 
@@ -90,6 +91,8 @@ data and machine learning computations.
 recommended for capturing video data.
 
 However, the model uses the Mediapipe framework which is a lightweight framework and can be used for mobile ML solutions.
+
+<br>
 
 ## Contributars
 
