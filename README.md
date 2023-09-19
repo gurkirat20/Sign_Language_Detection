@@ -6,8 +6,9 @@ The model processes real-time video data and provides real-time feedback on the 
 </p>
 
 <br>
-<img src="sign-language-alphabet.png" width="600" height="250" alt="American Sign Language"></img>
+<img src="sign-language-alphabet.png" width="600" height="300" alt="American Sign Language"></img>
 <i>The image shows signs of the alphabet in ASL.</i>
+
 
 <br>
 
@@ -63,6 +64,7 @@ Once a hand has been detected, the MediaPipe Hand Tracking module uses another m
 #### 6.  Hand tracking:
 
 The estimated hand landmarks are then tracked across frames of the video or image data to determine the hand's movements and gestures. <br>
+<br>
 <img width="508" alt="Hand Tracking" src="https://github.com/gurkirat20/Sign_Language_Detection/assets/91982831/9d0623e0-bab1-4892-b9c4-b1fb86c05eff">
 
 #### 7.  Post-processing: 
