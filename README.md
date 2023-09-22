@@ -99,4 +99,4 @@ However, the model uses the Mediapipe framework which is a lightweight framework
 ## Contributars
 
 - [Gurkirat Singh](https://github.com/gurkirat20)
-- Astha Singh
+- [Astha Singh](https://github.com/AsthaSingh7295)
