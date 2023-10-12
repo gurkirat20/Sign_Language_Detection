@@ -1,5 +1,12 @@
 # Sign Language Detection
 
+<br>
+
+https://github.com/gurkirat20/Sign_Language_Detection/assets/91982831/1407cd03-7cb4-4bea-8a8b-6b3768f2b0e3
+
+<br>
+
+
 <p>This is a Sign language detection model that can accurately recognize and interpret the gestures and movements of hands used in <b>American Sign Language (ASL)</b>.</p>
 <p>
 The model processes real-time video data and provides real-time feedback on the signs being performed. The end goal of this project is to create a tool that can help bridge communication gaps between deaf and hearing individuals and enable more inclusive and accessible interactions in various settings.
